@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e023fb3b4d7941f7ccbe8007",
+  "owner": "vrwkasw",
+  "repo": "page-ccebe58e6adaa6a10448902c",
+  "title": "机场平台",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ccebe58e6adaa6a10448902c",
+      "a": "机场平台",
+      "b": "2027官方最新地址导航",
+      "entity": "机场平台",
+      "brand": "机场平台",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "52bbb7acb2e3ab2da83e8ecdd9830c0fb6dcf3f1c5ef1e625f3b187445fd9ba7",
+      "content": {
+        "primary_entity": "机场平台",
+        "keyword1": "机场平台",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备规模、流量需求与订阅周期组织套餐选择，基础版适合三台设备以内、每月百GB用量，旗舰版面向五台设备与流媒体游戏场景，团队版覆盖二十台设备与千GB流量。客户端覆盖常见桌面与移动系统，配置时按客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅的加速方案",
+          "AI_HERO_INTRO": "机场平台提供从基础到团队的三档订阅，按月或按年计费，流量与设备数量逐级提升。选择时先确认常用设备台数和每月流量范围，再对照套餐权益与线路类型，最后在对应客户端导入订阅地址完成配置。",
+          "AI_VISUAL_TITLE": "按设备规模选订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖3至20台设备",
+          "AI_HIGHLIGHT_2": "月付年付灵活切换",
+          "AI_HIGHLIGHT_3": "多客户端订阅导入",
+          "AI_FEATURES_INTRO": "从设备数量、流量档位和订阅周期三个角度对比套餐，选到匹配日常用量的版本。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TEXT_1": "基础版支持3台，旗舰版5台，团队版20台，按常用设备总数挑选。",
+          "AI_FEATURE_TITLE_2": "流量与周期",
+          "AI_FEATURE_TEXT_2": "每月100GB至1000GB三档，年付比月付更省，适合长期使用。",
+          "AI_FEATURE_TITLE_3": "线路与权益",
+          "AI_FEATURE_TEXT_3": "旗舰版含IPLC专线，团队版提供VIP高带宽节点与定制路由。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "桌面端与移动端各有常用客户端，根据系统选择并参考对应文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年，按设备与流量选择。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先定套餐，再核对设备与系统，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备台数与月流量，从基础、旗舰、团队三档中选定版本与周期。",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TEXT_2": "确认所用系统与客户端名称，了解该客户端的订阅导入方式。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在客户端中按文档填写订阅地址，保存后更新节点即可使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐再配置",
+          "AI_CLOSING_TEXT": "对照设备数量与流量选出套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备；团队版每月1000GB、20台设备。按设备数量与流量需求选择即可。",
+          "AI_FAQ_ANSWER_2": "支持按设备系统选择客户端，如手机、电脑与路由器等。每款客户端的订阅导入方式不同，请查阅对应客户端的使用说明。",
+          "AI_FAQ_ANSWER_3": "年付价格为月付的十个月，相当于节省两个月费用。长期使用选年付更划算，短期体验选月付更灵活。",
+          "AI_FAQ_ANSWER_4": "在客户端中新建订阅，粘贴订阅链接后更新节点列表，再选择节点连接。具体步骤以对应客户端文档为准。",
+          "AI_FAQ_ANSWER_5": "设备数量按同时在线计算。基础版3台、旗舰版5台、团队版20台。超出后可升级套餐或先在部分设备退出连接。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "客户端支持哪些设备系统？",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "设备数量超限怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lanyuan01.cn",
+    "host": "lanyuan01.cn"
+  },
+  "file_hashes": {
+    "index.html": "9c44afb1e7a0b3e78e66f659735cc7eef922c62f5a75b34dfe0aa4be6c4a4522",
+    "sitemap.xml": "3dc57607cefa60ab49eb13546254ce24b2d8f09d5bd9b0f59ce1a557daafb495",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "762c43b5cc8416021c9a3b2d5b10a5ccb2c89c83f04006b20eff2bc1af41c76b",
+    "robots.txt": "b8f424dda99c2b72b0916537e28f66a5fb8cf560eba7e99ac79bf8a8b2bcd823",
+    "7695026382666eee20691a7d29028fd4.txt": "8162a13c1b8cc284fd80f0241e70d9012388d8932db21f442b179fe49309e961"
+  },
+  "revision": "ee724d5affc954dd49bdb8bb601477fed97deb14bcb33b7f0067f7794a3bc13b"
+}
